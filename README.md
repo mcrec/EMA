@@ -1,5 +1,5 @@
 # EMA
-Music Emotion Dataset
-The dataset is classified by emotion
-The original data are collected and organizatied from music websites.
-The dataset is just used for research
+Music Emotion Dataset is a library of original music audio data. 
+The data are collected and organizatied from music platforms.
+The dataset is just used for scientific research.
+The download link is https://drive.google.com/drive/quota.
